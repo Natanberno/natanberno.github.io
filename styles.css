@@ -15,3 +15,13 @@ h1 span{background:linear-gradient(110deg,#387bec 8%,#7160dd 55%,#a05ac5 95%);ba
 .current{background:#e7ebfb;color:#5e6cc3}h2 span{color:#7380d8}
 .skills-grid article:nth-child(1){background:#f0f3fb}.skills-grid article:nth-child(2){background:#eef5f3}.skills-grid article:nth-child(3){background:#f4f0f8}.skills-grid article:nth-child(4){background:#f8f3ee}
 .contact-email span{color:#6976d7}a:focus-visible,button:focus-visible{outline-color:#6976d7}
+/* Blue and green accents, without violet. */
+:root{--accent:#2475d5}
+h1 span{background:linear-gradient(110deg,#2587eb 8%,#2475d5 65%,#3293b7 100%);background-clip:text;-webkit-background-clip:text;color:transparent}
+.primary{background:#2475d5}.primary:hover{background:#1e65bb;box-shadow:0 8px 22px #2475d52b}
+.text-link:hover,.contact-links a:hover{color:#2475d5}
+.node.active,.node[data-layer="backend"].active{border-color:#d3e4f7;background:#f5f9ff}
+.node.active .node-symbol,.node.active>span:last-child,.node[data-layer="backend"].active .node-symbol,.node[data-layer="backend"].active>span:last-child{color:#2475d5}
+.current{background:#e5effb;color:#3176bf}h2 span{color:#4388cc}
+.skills-grid article:nth-child(1){background:#eef4fb}.skills-grid article:nth-child(3){background:#f0f3f6}
+.contact-email span{color:#3782ca}a:focus-visible,button:focus-visible{outline-color:#3782ca}
