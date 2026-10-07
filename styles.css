@@ -7,3 +7,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
 .node-symbol{flex-shrink:0;white-space:nowrap}
 @media(max-width:620px){h1{font-size:56px}.contact-email{font-size:19px}}
+
+.skills-grid{display:grid;grid-template-columns:1fr 1fr;gap:30px}.skills-grid article{border-top:1px solid var(--line);padding-top:24px}.skills-grid h3{font-size:21px}.skills-grid p{font-size:13px;color:var(--muted);line-height:1.8;margin-bottom:0}@media(max-width:620px){.skills-grid{grid-template-columns:1fr;gap:24px}}

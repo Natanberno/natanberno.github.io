@@ -1,9 +1,7 @@
-# Natan Berno · Portfólio
+# Natan Berno · Portfólio profissional
 
-Site pessoal publicado em https://natanberno.github.io/ com GitHub Pages.
+Site pessoal em https://natanberno.github.io/ com apresentação, experiência, competências técnicas, formação e contato.
 
-HTML, CSS e JavaScript, sem build. Para visualizar, sirva a pasta com um servidor estático. Atualize o conteúdo em `index.html`, a identidade visual em `styles.css` e o mapa interativo em `script.js`.
+HTML, CSS e JavaScript sem build. Conteúdo em index.html, estilos em styles.css e mapa interativo em script.js.
 
-As ilustrações são representações conceituais, não capturas de sistemas. Projetos profissionais e pessoais privados são descritos sem expor código. Projetos acadêmicos públicos estão identificados e vinculados aos respectivos repositórios; a apresentação não implica autoria exclusiva.
-
-O currículo público fica em `assets/Natan_Berno_Curriculo.pdf`. Não publique credenciais, dados de clientes ou arquivos de projetos privados.
+O site não disponibiliza currículo em PDF nem uma seção de projetos. Não publique credenciais, dados de clientes ou código de projetos privados.
