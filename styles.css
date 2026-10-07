@@ -34,3 +34,4 @@ body{background:#fbfcfe}.header{background:#fbfcfed9}.hero{max-width:1240px;disp
 @media(prefers-reduced-motion:reduce){.glass-plane{animation:none}.architecture-art:hover .glass-plane{transform:rotateX(18deg) rotateY(-23deg) rotateZ(-13deg)}}
 .hero{grid-template-columns:minmax(0,1.08fr) minmax(0,1fr)}.hero>*{min-width:0}.systems{grid-template-columns:minmax(0,1fr) minmax(0,2fr)}.map{min-width:0;grid-template-columns:repeat(3,minmax(0,1fr))}.node{min-width:0}.node>span:nth-child(2){min-width:0}.node small{white-space:normal}.architecture-art{max-width:100%}
 @media(max-width:700px){.hero{grid-template-columns:minmax(0,1fr)}.architecture-art{max-width:none}.map{grid-template-columns:minmax(0,1fr)}}
+html,body{overflow-x:clip}
